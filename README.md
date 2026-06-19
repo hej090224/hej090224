@@ -13,7 +13,6 @@ Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
 
 - 🎓 광주소프트웨어마이스터고등학교 소프트웨어개발과
 - 💻 Backend Developer
-- 🌱 Learning Spring Boot, Kotlin, Redis, Docker, AWS, Nginx
 ---
 
 ## 🛠 Tech Stack
