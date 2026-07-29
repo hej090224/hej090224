@@ -15,6 +15,10 @@ Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
 - 💻 Backend Developer
 ---
 
+## 🌱 Open Source Contributions
+- [Contributed to Java Operator SDK](https://github.com/operator-framework/java-operator-sdk/pull/3513)
+---
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
