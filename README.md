@@ -16,7 +16,10 @@ Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
 ---
 
 ## 🌱 Open Source Contributions
-- [Contributed to Java Operator SDK](https://github.com/operator-framework/java-operator-sdk/pull/3513)
+
+- ✅ [Java Operator SDK - Contributed to project](https://github.com/operator-framework/java-operator-sdk/pull/3513)
+- ✅ [Java Operator SDK - Detect dependent resource API version changes](https://github.com/operator-framework/java-operator-sdk/pull/3536)
+- ✅ [JOSDK Spring Boot Starter - Spring-managed dependent resources](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
 ---
 
 ## 🛠 Tech Stack
