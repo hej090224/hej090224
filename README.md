@@ -21,6 +21,7 @@ Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
 - ✅ [Java Operator SDK - Detect dependent resource API version changes](https://github.com/operator-framework/java-operator-sdk/pull/3536)
 - ✅ [JOSDK Spring Boot Starter - Spring-managed dependent resources](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
 - ✅ [GraphQL Java - Fix nullable bound on DataFetcherResult.newResult](https://github.com/graphql-java/graphql-java/pull/4418)
+- ✅ [jjwt - Fix empty JSON encrypted content parsing](https://github.com/jwtk/jjwt/pull/1066#event-29933224529)
 ---
 
 ## 🛠 Tech Stack
