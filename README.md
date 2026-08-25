@@ -22,6 +22,7 @@ Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
 - ✅ [JOSDK Spring Boot Starter - Spring-managed dependent resources](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
 - ✅ [GraphQL Java - Fix nullable bound on DataFetcherResult.newResult](https://github.com/graphql-java/graphql-java/pull/4418)
 - ✅ [jjwt - Fix empty JSON encrypted content parsing](https://github.com/jwtk/jjwt/pull/1066#event-29933224529)
+- ✅ [detekt - Fix outdated analysis projects script reference- #9660](https://github.com/detekt/detekt/pull/9660)
 ---
 
 ## 🛠 Tech Stack
