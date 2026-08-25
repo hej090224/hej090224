@@ -1,48 +1,25 @@
-# 👋 Hi there!
+# Han Euijun
 
-### Backend Developer & Software Student 🇰🇷
+Backend Developer from South Korea 🇰🇷
 
-광주소프트웨어마이스터고등학교 소프트웨어개발과 재학 중입니다.
+Kotlin과 Java, Spring Boot를 기반으로 백엔드 서비스를 개발하고 있습니다.
+서비스 운영과 안정적인 서버 구조 등에 관심이 많습니다.
 
-Spring Boot와 Kotlin/Java를 활용한 백엔드 개발을 좋아하며,
-실제 서비스 운영과 서버 인프라, DevOps에도 관심이 많습니다.
+### Tech Stack
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+
+Spring Security · JPA · QueryDSL · MySQL · MariaDB · Nginx · JUnit 5 · Testcontainers · Gradle
+
+## Open Source
+
+* **Java Operator SDK** — [Detect dependent resource API version changes · #3536](https://github.com/operator-framework/java-operator-sdk/pull/3536)
+* **JOSDK Spring Boot Starter** — [Spring-managed dependent resources · #320](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
+* **GraphQL Java** — [Fix nullable bound on `DataFetcherResult.newResult` · #4418](https://github.com/graphql-java/graphql-java/pull/4418)
+* **jjwt** — [Fix empty JSON encrypted content parsing · #1066](https://github.com/jwtk/jjwt/pull/1066)
+* **detekt** — [Fix outdated analysis projects script reference · #9660](https://github.com/detekt/detekt/pull/9660)
+* **Java Operator SDK** — [Contribution · #3513](https://github.com/operator-framework/java-operator-sdk/pull/3513)
 
 ---
 
-## 🚀 About Me
-
-- 🎓 광주소프트웨어마이스터고등학교 소프트웨어개발과
-- 💻 Backend Developer
----
-
-## 🌱 Open Source Contributions
-
-- ✅ [Java Operator SDK - Contributed to project](https://github.com/operator-framework/java-operator-sdk/pull/3513)
-- ✅ [Java Operator SDK - Detect dependent resource API version changes](https://github.com/operator-framework/java-operator-sdk/pull/3536)
-- ✅ [JOSDK Spring Boot Starter - Spring-managed dependent resources](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
-- ✅ [GraphQL Java - Fix nullable bound on DataFetcherResult.newResult](https://github.com/graphql-java/graphql-java/pull/4418)
-- ✅ [jjwt - Fix empty JSON encrypted content parsing](https://github.com/jwtk/jjwt/pull/1066#event-29933224529)
-- ✅ [detekt - Fix outdated analysis projects script reference- #9660](https://github.com/detekt/detekt/pull/9660)
----
-
-## 🛠 Tech Stack
-
-### Languages
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
-### Backend
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=for-the-badge">
-
-### Database
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
-### Infra & DevOps
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-
-### Test & Tools
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/Testcontainers-1E65F3?style=for-the-badge"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-
-# 🎯 Goal
-
-> "Build practical backend services that people actually use."
-
-꾸준히 성장하는 백엔드 개발자를 목표로 하고 있습니다.
+> **Build practical backend services that people actually use.**
