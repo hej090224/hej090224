@@ -14,6 +14,7 @@ Spring Security · JPA · QueryDSL · MySQL · MariaDB · Nginx · JUnit 5 · Te
 ## Open Source
 
 * **Java Operator SDK** — [Detect dependent resource API version changes · #3536](https://github.com/operator-framework/java-operator-sdk/pull/3536)
+* **Vaadin Flow** — [Avoid format strings in `FrontendUtils.console` · #25048](https://github.com/vaadin/flow/pull/25048)
 * **JOSDK Spring Boot Starter** — [Spring-managed dependent resources · #320](https://github.com/operator-framework/josdk-spring-boot-starter/pull/320)
 * **GraphQL Java** — [Fix nullable bound on `DataFetcherResult.newResult` · #4418](https://github.com/graphql-java/graphql-java/pull/4418)
 * **jjwt** — [Fix empty JSON encrypted content parsing · #1066](https://github.com/jwtk/jjwt/pull/1066)
